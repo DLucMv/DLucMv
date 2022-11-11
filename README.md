@@ -1,4 +1,4 @@
-### Hi! I’m Davison Lucas 🖖
+# Hi! I’m Davison Lucas 🖖
 <br/>
 
 <div align="center">
@@ -23,6 +23,13 @@
   <img align="center "alt="ASRock Steel Legend" src="https://badgen.net/badge/ASRock/Steel Legend/grey?icon="/>
   <img align="center "alt="ASRock Steel Legend" src="https://badgen.net/badge/G.Skill/TridentZ | 3200Mhz/red?icon="/>
 </div>
+  
+## Social
+<div style="display: inline_block">
+  <a herf= "mailto: dlucamv@gmail.com"><img align="center "alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank"/>
+  </a>
+</div>
+
 
 
 <!---
