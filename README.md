@@ -3,11 +3,11 @@
 
 <div align="center">
   <a href="https://github.com/DLucMv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DLucMv&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLucMv&layout=compact&theme=transparent"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DLucMv&show_icons=true&theme=transparent"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLucMv&layout=compact&theme=transparent"/>
 </div>
 
-## 🚀 Skills
+## 🚀 I'm familiar with : 
 <div style="display: inline_block">
   <img align="center "alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img align="center "alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
