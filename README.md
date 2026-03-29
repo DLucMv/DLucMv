@@ -21,7 +21,7 @@
   
 ## 🖥️ SPECS
 <div style="display: inline_block">
-  <img align="center "alt="Ryzen 5 2600x" src="https://badgen.net/badge/AMD/Ryzen 5 2600x/red?icon=AMD"/>
+  <img align="center "alt="Ryzen 7 5700x" src="https://badgen.net/badge/AMD/Ryzen 7 5700x/red?icon=AMD"/>
   <img align="center "alt="RTX 4060 Ti" src="https://badgen.net/badge/NVIDIA/GTX 4060 Ti | MSI/green?icon="/>
   <img align="center "alt="ASRock Steel Legend" src="https://badgen.net/badge/ASRock/B450 | Steel Legend/grey?icon="/>
   <img align="center "alt="ASRock Steel Legend" src="https://badgen.net/badge/G.Skill/TridentZ | 16Gb | 3200Mhz/red?icon="/>
